@@ -1,2 +1,2 @@
 # Music_Classification
-Deep learning for music genre classification. 
+Course Project linked to a Kaggle competition : I chose a Deep learning/Neural Network approach.
